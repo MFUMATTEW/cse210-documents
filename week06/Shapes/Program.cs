@@ -30,7 +30,7 @@ class Program
             double area = i.GetArea();
             string color = i.GetColor();
 
-            Console.WriteLine($"The {color} shape has an area of {area}.");
+            Console.WriteLine($"The {color} shape has an area of {area} m^2.");
         }
     }
 }
